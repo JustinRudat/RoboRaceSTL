@@ -13,7 +13,7 @@ import characteristics.IRadarResult;
 
 import java.util.ArrayList;
 
-public class Stage1_mieux extends Brain {
+public class Stage1_mieux extends Brain { //version buguer
     //---PARAMETERS---//
     private static final double HEADINGPRECISION = 0.001;
     private static final double ANGLEPRECISION = 0.1;
